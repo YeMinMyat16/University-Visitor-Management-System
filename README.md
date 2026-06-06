@@ -43,7 +43,7 @@ npm run dev
 ### Security Portal Login
 ![Screenshot 1](SS/Screenshot%202026-06-06%20104705.png)
 
-### CampusPass Welcome Page
+### Security Login Page
 ![Screenshot 2](SS/Screenshot%202026-06-06%20104731.png)
 
 ### Security Dashboard
