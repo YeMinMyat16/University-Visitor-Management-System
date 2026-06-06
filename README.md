@@ -40,17 +40,17 @@ npm run dev
 
 ## Screenshots
 
-### System Overview
+### Security Portal Login
 ![Screenshot 1](SS/Screenshot%202026-06-06%20104705.png)
 
-### Dashboard & Active Visitors
+### CampusPass Welcome Page
 ![Screenshot 2](SS/Screenshot%202026-06-06%20104731.png)
 
-### Check-in Requests
+### Security Dashboard
 ![Screenshot 3](SS/Screenshot%202026-06-06%20104841.png)
 
-### Check-out Verification
+### Visitor Pending Approval Status
 ![Screenshot 4](SS/Screenshot%202026-06-06%20104930.png)
 
-### Visitor Archive
+### Visitor Active Pass
 ![Screenshot 5](SS/Screenshot%202026-06-06%20105006.png)
