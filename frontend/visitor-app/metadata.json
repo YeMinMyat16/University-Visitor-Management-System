@@ -1,0 +1,8 @@
+{
+  "name": "CampusPass",
+  "description": "A modern visitor registration and digital pass system for educational institutions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
