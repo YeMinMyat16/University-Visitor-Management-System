@@ -46,7 +46,7 @@ npm run dev
 ### Security Login Page
 ![Screenshot 2](SS/Screenshot%202026-06-06%20104731.png)
 
-### Security Dashboard
+### Visitor Registration Form
 ![Screenshot 3](SS/Screenshot%202026-06-06%20104841.png)
 
 ### Visitor Pending Approval Status
